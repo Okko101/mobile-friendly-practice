@@ -22,17 +22,14 @@ header {
     color: rgb(255, 255, 255);
 }
 
-/* nav {
-    background-color: rgb(255, 0, 140);
-    border: 2px rgb(0, 0, 0);
-    box-shadow: 4px 8px 10px rgb(0, 0, 0);
-} */
-
 h1 {
     background-color: rgb(56, 56, 163);
     margin-bottom: 0;
 }
 
+path {
+    fill-opacity: rgb(56, 56, 163);
+}
 
 h3 {
     color: rgb(56, 56, 163);
